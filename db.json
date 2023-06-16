@@ -1,0 +1,131 @@
+{
+
+  "FrontEnd": [
+
+    {
+
+      "TituloCategoria": "Front-End",
+      "SubtituloCategoria": "Formación Front-End de Alura Latam",
+      "ColorCategoria": "#6BD1FF",
+      
+      "Video01": {
+        "titulo": "¿Cuando usar LET, VAR y CONST?",
+        "id": "PztCEdIJITY"
+      },
+
+      "Video02": {
+        "titulo": "¿Qué es JS?",
+        "id": "GJfOSoaXk4s"
+      },
+
+      "Video03": {
+        "titulo": "¿Equipo Front-End?",
+        "id": "rpvrLaBQwgg"
+      },
+
+      "Video04": {
+        "titulo": "Aprendiendo a utilizar Figma",
+        "id": "UuAX5azcvDQ"
+      }
+
+    }
+
+  ],
+
+  "BackEnd": [
+
+    {
+
+      "TituloCategoria": "Back-End",
+      "SubtituloCategoria": "Formación Back-End de Alura Latam",
+      "ColorCategoria": "#00C86F",
+
+      "Video01": {
+        "titulo": "Spring Framework",
+        "id": "t-iqt1b2qqk"
+      },
+
+      "Video02": {
+        "titulo": "¿Qué es SQL y NoSQL?",
+        "id": "cLLKVd5CNLc"
+      },
+
+      "Video03": {
+        "titulo": "Simplificando tu código en Java",
+        "id": "EoPvlE85XAQ"
+      },
+
+      "Video04": {
+        "titulo": "Backend de Tinder",
+        "id": "AE214uRJ2UQ"
+      }
+
+    }
+
+  ],
+
+  "Gestion": [
+
+    {
+
+      "TituloCategoria": "Innovación & Gestion",
+      "SubtituloCategoria": "Formación Innovación y Gestión de Alura Latam",
+      "ColorCategoria": "#FE8C2A",
+
+      "Video01": {
+        "titulo": "Qué son las Soft Skills",
+        "id": "vhwspfvI52k"
+      },
+
+      "Video02": {
+        "titulo": "Las 7 Soft Skills más deseadas por las empresas",
+        "id": "YhR7Zp8NUzE"
+      },
+
+      "Video03": {
+        "titulo": "¿Qué son las metodologias ágiles?",
+        "id": "6N3OkLCfK-0"
+      },
+
+      "Video04": {
+        "titulo": "Trabajando desde casa",
+        "id": "_zYbZ5S0VMw"
+      }
+
+    }
+
+  ],
+
+  "Custom": [
+
+    {
+
+      "TituloCategoria": "Custom",
+      "SubtituloCategoria": "Agregados por el autor.",
+      "ColorCategoria": "#DC1A28",
+
+      "Video01": {
+        "titulo": "React para Haters",
+        "id": "HyWYpM_S-2c"
+      },
+
+      "Video02": {
+        "titulo": "React en 100 Segundos",
+        "id": "Tn6-PIqc4UM"
+      },
+
+      "Video03": {
+        "titulo": "Hooks de React",
+        "id": "TNhaISOUy6Q"
+      },
+
+      "Video04": {
+        "titulo": "Mirage 2000",
+        "id": "g6xM2cug1ZQ"
+      }
+
+    }
+
+  ]
+
+}
