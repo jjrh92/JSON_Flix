@@ -1,131 +1,34 @@
 {
-
-  "FrontEnd": [
-
+  "Videos": [
     {
-
-      "TituloCategoria": "Front-End",
-      "SubtituloCategoria": "Formación Front-End de Alura Latam",
-      "ColorCategoria": "#6BD1FF",
-      
-      "Video01": {
-        "titulo": "¿Cuando usar LET, VAR y CONST?",
-        "id": "PztCEdIJITY"
-      },
-
-      "Video02": {
-        "titulo": "¿Qué es JS?",
-        "id": "GJfOSoaXk4s"
-      },
-
-      "Video03": {
-        "titulo": "¿Equipo Front-End?",
-        "id": "rpvrLaBQwgg"
-      },
-
-      "Video04": {
-        "titulo": "Aprendiendo a utilizar Figma",
-        "id": "UuAX5azcvDQ"
-      }
-
-    }
-
-  ],
-
-  "BackEnd": [
-
+      "id": "ea813fcb-2afe-1606-6266-f56844c104dc",
+      "TituloVideo": "GAC11",
+      "IdYoutube": "CxoHI_iUgn8"
+    },
     {
-
-      "TituloCategoria": "Back-End",
-      "SubtituloCategoria": "Formación Back-End de Alura Latam",
-      "ColorCategoria": "#00C86F",
-
-      "Video01": {
-        "titulo": "Spring Framework",
-        "id": "t-iqt1b2qqk"
-      },
-
-      "Video02": {
-        "titulo": "¿Qué es SQL y NoSQL?",
-        "id": "cLLKVd5CNLc"
-      },
-
-      "Video03": {
-        "titulo": "Simplificando tu código en Java",
-        "id": "EoPvlE85XAQ"
-      },
-
-      "Video04": {
-        "titulo": "Backend de Tinder",
-        "id": "AE214uRJ2UQ"
-      }
-
-    }
-
-  ],
-
-  "Gestion": [
-
+      "id": "139da7fd-182b-a6e3-de12-1a29255b7cb9",
+      "TituloVideo": "Cazas Deltas",
+      "IdYoutube": "IQWzEqUbkU8"
+    },
     {
-
-      "TituloCategoria": "Innovación & Gestion",
-      "SubtituloCategoria": "Formación Innovación y Gestión de Alura Latam",
-      "ColorCategoria": "#FE8C2A",
-
-      "Video01": {
-        "titulo": "Qué son las Soft Skills",
-        "id": "vhwspfvI52k"
-      },
-
-      "Video02": {
-        "titulo": "Las 7 Soft Skills más deseadas por las empresas",
-        "id": "YhR7Zp8NUzE"
-      },
-
-      "Video03": {
-        "titulo": "¿Qué son las metodologias ágiles?",
-        "id": "6N3OkLCfK-0"
-      },
-
-      "Video04": {
-        "titulo": "Trabajando desde casa",
-        "id": "_zYbZ5S0VMw"
-      }
-
-    }
-
-  ],
-
-  "Custom": [
-
+      "id": "bf137a4c-ea78-71b2-c295-2d90dd08bbca",
+      "TituloVideo": "El ultimo Delta",
+      "IdYoutube": "pQQ2koj-fYI"
+    },
     {
-
-      "TituloCategoria": "Custom",
-      "SubtituloCategoria": "Agregados por el autor.",
-      "ColorCategoria": "#DC1A28",
-
-      "Video01": {
-        "titulo": "React para Haters",
-        "id": "HyWYpM_S-2c"
-      },
-
-      "Video02": {
-        "titulo": "React en 100 Segundos",
-        "id": "Tn6-PIqc4UM"
-      },
-
-      "Video03": {
-        "titulo": "Hooks de React",
-        "id": "TNhaISOUy6Q"
-      },
-
-      "Video04": {
-        "titulo": "Mirage 2000",
-        "id": "g6xM2cug1ZQ"
-      }
-
+      "id": "6c40bcd1-6529-3bef-dfbb-72a4c702cf70",
+      "TituloVideo": "Mirage Chile",
+      "IdYoutube": "j1GNUwxbcsI"
+    },
+    {
+      "id": "a407ffba-a5b8-fe05-678d-b449dd57206c",
+      "TituloVideo": "Mirage Venezuela",
+      "IdYoutube": "kMgnHl9yIjw"
+    },
+    {
+      "id": "e5a0d4e0-da68-99f9-56e6-5e24bef15d77",
+      "TituloVideo": "GAC11",
+      "IdYoutube": "SPRKP1QnbLU"
     }
-
   ]
-
 }
