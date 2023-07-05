@@ -1,4 +1,4 @@
-const jsonServer = require ("json-server"); // IMPORTANDO LIBREARIA JSON-SERVER
+const jsonServer = require ("json-server"); // IMPORTANDO LIBRERIA JSON-SERVER.
 const server = jsonServer.create ();
 const router = jsonServer.router ("db.json");
 const middlewares = jsonServer.defaults ();
