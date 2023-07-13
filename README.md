@@ -1,2 +1,1 @@
-# JSON_julioFlix
-Para simular un JSON-Server utilizando recursos externos.
+Used by render.com to host a json-server.
